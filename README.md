@@ -9,7 +9,7 @@
 * Google Cloud
 * Angular
 
-### How to started?(Getting Started)November- December
+### [How to started?]()(Getting Started)November- December
 > Step 1. Join a Google Developer Student Club of your college or any near by you.(anytime)
 >> Step 2. Form a team and register.(December)
 >>> Step 3. Select a UN Sustainable Development Goal.(Decemeber)
@@ -25,7 +25,7 @@
 >>>>>>>>>>>>> Step 13. Top 3 winners announced live on YouTube.(June 27)
 >>>>>>>>>>>>>> Step 14. Celebrate all the 2023 Solution Challenge participants!
 
-## Timeline of Solution Challenge
+## [Timeline of Solution Challenge]()
 > #### - Registation is open!December 1
 > #### - Kickoff Event January 11
 > #### - Submission Open January 21
@@ -37,14 +37,14 @@
 > #### - Final 10 Announced Late May
 > #### - Solution Challenge Demo Day winning 3 Announced June 27th
 
-## Prizes for top participants:
+## [Prizes for top participants:]()
 >> * <b>Top 100 shortlisted team<b> will receive customized mentorship,a swag box , and the opportunity to showcase solutions to Googlers and experts to take solutions to the next level a branded T-shirt,and a certificate.<br><br>
 >> * Top Final 10 teams will receive additional mentorship, a swag box, and the opportunity to showcase solutions to Googlers and developers all around the world at Demo Day live on YouTube
 >> * Contest Finalists ,n addition to the swag box, each individual from the additional seven recognized teams will receive a Cash Prize per student.Winnings for each qualifying team
 will not exceed $4,000.<br><br>
 >> * Winning Top 3 teams will receive in ddition to the swag box, each individual from the Winning 3 teams will receive a Cash Prize and a feature on the Google Developers Blog.Winnings for each qualifying team will not exceed $12,000.
 
-## Submission Criteria
+## [Submission Criteria]()
 ##### These are the questions on the submission form that you will be asked to provide responses for.
 * - Project Setup - 1.Please clearly describe the challenge you are solving for using a problem statement.
 (5 POINTS)<br>
@@ -67,7 +67,7 @@ Highlight one challenge you faced while building your code, including detail on 
 10.Explain how the technical architecture of your solution could support (in its current state or with minor changes) scaling to a larger audience.
 (5 POINTS)
 
->> Here’s a good set of learning resources for your submissions:
+>> [Here’s a good set of learning resources for your submissions:]()
 
 * [developers.google.com](https://developers.google.com/) - learning content to develop with Google technology
 * [developers.google.com/learn](http://developers.google.com/learn) - collections of learning content
@@ -77,7 +77,7 @@ Highlight one challenge you faced while building your code, including detail on 
 * [cloudSkillsBoost.google](https://www.cloudskillsboost.google/) - hands-on labs for Google Cloud services
 * [developers.google.com/machine-learning](http://developers.google.com/machine-learning) - Google ML learning courses
 
-## LEARNING RESOURCES
+## [LEARNING RESOURCES]()
 INTRODUCTORY
 * FREE Google Domains (coming soon!)
 * FREE Google Cloud Credits (coming soon!)
@@ -90,7 +90,7 @@ INTRODUCTORY
 * [Creativity and Innovation](https://online.stanford.edu/creativity-and-innovation-management)
 * [Tech News sites](https://blog.feedspot.com/tech_news_websites/)
 
-## Communication Skills
+## [Communication Skills]()
 * [Imposter Syndrome](https://www.psychologytoday.com/us/basics/imposter-syndrome)
 * [Problem-Solving](https://asq.org/quality-resources/problem-solving)
 * [How to be a Collaborator](https://www.indeed.com/career-advice/career-development/collaborate-with-the-team)
@@ -100,7 +100,7 @@ INTRODUCTORY
 * [The Art of Public Speaking](https://publicwords.com/blog/)
 * [Being a Leader](https://hbr.org/2020/11/anyone-can-learn-to-be-a-better-leader)
 
-## Angular,Android ,and Flutter
+## [Angular,Android ,and Flutter]()
 * [Intro to Angular Workshop](https://youtu.be/qxchrt04bTA)
 * [Angular Tutorials & Guides](http://Angular.dev)
 * [Flutter Tutorials](https://docs.flutter.dev/reference/tutorials)
@@ -116,6 +116,13 @@ INTRODUCTORY
 * [Android Wear OS](https://play.google.com/store/apps/details?id=com.exatools.sensors&pli=1)
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Sensors Toolbox](https://play.google.com/store/apps/details?id=com.exatools.sensors&pli=1)
+
+# Community Resources
+### [DISCORD]()
+[Google for Developers Discord](http://discord.gg/google-dev-community)
+
+### Happy Coding!Best of luck for this year solution challenge!
+
 
 
 
