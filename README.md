@@ -106,12 +106,12 @@ INTRODUCTORY
 * [Flutter Tutorials](https://docs.flutter.dev/reference/tutorials)
 * [What is Firebase](https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0)
 * [Firebase](https://firebase.google.com/)
-* [Firebase Demo Videos](https://firebase.google.com/demo-day/2023/?)utm_source=newsletter&utm_medium=email&utm_campaign=gdsc_november&utm_content=na
+* [Firebase Demo Videos](https://firebase.google.com/demo-day/2023/?utm_source=newsletter&utm_medium=email&utm_campaign=gdsc_november&utm_content=na)
 * [Firebase in a Weekend - Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 * [Firebase Android - Build a Friendly Chat](https://developer.android.com/modern-android-development)
 * [Android Basics with Compose](https://firebase.blog/posts/2022/05/adding-firebase-auth-to-jetpack-compose-app)
 * [Modern Android and Firebase](https://developer.android.com/guide/topics/sensors/sensors_overview)
-* [How to add Android Authentication using Firebase])https://developer.android.com/training/wearables
+* [How to add Android Authentication using Firebase](https://developer.android.com/training/wearables)
 * [Android Sensors Overview](https://developer.android.com/jetpack/compose)
 * [Android Wear OS](https://play.google.com/store/apps/details?id=com.exatools.sensors&pli=1)
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
