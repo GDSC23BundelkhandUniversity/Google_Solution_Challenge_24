@@ -18,7 +18,7 @@
 >>>>>> Step 6. Design the backend technology.(January)
 >>>>>>> Step 7. Test your solution.(January-Febrary)
 >>>>>>>> Step 8. Iterate on your project.(January-Febrary)
->>>>>>>>> Step 9. Record a Demo video,upload on your youtube channel,and submit.Put your solution into action.Record a video of a successful demo(max 2min long) and submit <b>project between January 21 and February 22,2024.The submission form will open on January 22,2024.<b>
+>>>>>>>>> Step 9. Record a Demo video,upload on your youtube channel,and submit.Put your solution into action.Record a video of a successful demo(max 2min long) and submit project between January 21 and February 22 ,2024.The submission form will open on January 22 ,2024.
 >>>>>>>>>> Step 10. Top 100 solutions announced.(Early April)
 >>>>>>>>>>> Step 11. Top 100 mentoring.(April)
 >>>>>>>>>>>> Step 12. Top 10 finalists announced.(Late May)
