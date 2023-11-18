@@ -67,6 +67,52 @@ Highlight one challenge you faced while building your code, including detail on 
 10.Explain how the technical architecture of your solution could support (in its current state or with minor changes) scaling to a larger audience.
 (5 POINTS)
 
+>> Here’s a good set of learning resources for your submissions:
+
+* https://developers.google.com/ - learning content to develop with Google technology
+* http://developers.google.com/learn - collections of learning content
+* https://developer.android.com/ - all things Android
+* https://angular.dev - tutorials and guides to build your web development framework
+* https://flutter.dev/ - how to build cross-platform apps from one codebase
+* https://www.cloudskillsboost.google/ - hands-on labs for Google Cloud services
+* http://developers.google.com/machine-learning - Google ML learning courses
+
+## LEARNING RESOURCES
+INTRODUCTORY
+* FREE Google Domains (coming soon!)
+* FREE Google Cloud Credits (coming soon!)
+* https://www.codecademy.com/learn/introduction-to-it
+* https://medium.com/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73
+* https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
+* https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+* https://www.learning.com/blog/defining-computational-thinking/
+* https://online.stanford.edu/creativity-and-innovation-management
+* https://blog.feedspot.com/tech_news_websites/
+
+## Communication Skills
+* https://www.psychologytoday.com/us/basics/imposter-syndrome
+* https://asq.org/quality-resources/problem-solving
+* https://www.indeed.com/career-advice/career-development/collaborate-with-the-team
+* https://writer.com/blog/how-to-write-better/
+* https://www.purdueglobal.edu/blog/student-life/10-public-speaking-tips/
+* https://www.saintleo.edu/about/stories/blog/9-tips-to-improve-your-public-speaking-skills
+* https://publicwords.com/blog/
+* https://hbr.org/2020/11/anyone-can-learn-to-be-a-better-leader
+
+## Angular,Android ,and Flutter
+* https://youtu.be/qxchrt04bTA
+* http://Angular.dev
+* https://docs.flutter.dev/reference/tutorials
+* https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0
+* https://firebase.google.com/
+* https://firebase.google.com/demo-day/2023/?utm_source=newsletter&utm_medium=email&utm_campaign=gdsc_november&utm_content=na
+* https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352
+* https://developer.android.com/modern-android-development
+* https://firebase.blog/posts/2022/05/adding-firebase-auth-to-jetpack-compose-app
+* https://developer.android.com/guide/topics/sensors/sensors_overview
+* https://developer.android.com/training/wearables
+* https://developer.android.com/jetpack/compose
+* https://play.google.com/store/apps/details?id=com.exatools.sensors&pli=1
 
 
 
